@@ -1,2 +1,2 @@
 # React-Projects.begginer
-Just some projects to get into the feel of how to handel and work with react 
+Just some projects to get into the feel of how to handle and work with react 
